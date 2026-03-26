@@ -4,7 +4,7 @@
 
 This project focuses on analyzing student performance using Python. The main goal is to identify the key factors that affect students' academic results, such as study time, absences, and personal background. By using data analysis and visualization techniques, this project provides insights into student behavior and performance.
 
----
+
 
 ##  Dataset
 
